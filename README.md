@@ -4,7 +4,7 @@
 
 # Open your terminal (cmd, etc)
 3. Enter unto main folder from your terminal
-4. write: ** npm install ** to install all the dependencies
+4. write: **npm install** to install all the dependencies
 
 # .env file
 5. Create an .env file in the root folder

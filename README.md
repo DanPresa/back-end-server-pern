@@ -11,11 +11,11 @@
 # .env file
 4. Create and env file in the root folder
 5. Define conection parameters
-    * user=postgres
-    * password=admin,
-    * host=localhost,
-    * port=5432,
-    * database=tododb
+    * USER_DB=postgres
+    * PASSWORD=admin,
+    * HOST=localhost,
+    * POSTGRES_PORT=5432,
+    * DATABASE=tododb
 
 # Create a database using postgresSQL
 
